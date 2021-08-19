@@ -1,0 +1,13 @@
+.header-container {
+    height: 80px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 3px 45px rgb(0 0 0 / 15%);
+    box-shadow: 0 3px 45px rgb(0 0 0 / 15%);
+}
+
+.header-container .img-logo {
+    height: 60px;
+    margin-top: 10px;
+}
